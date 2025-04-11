@@ -9,7 +9,7 @@ on:
 
 jobs:
   version:
-    name: VSCode AppImage
+    name: VSCode-Insiders AppImage
     runs-on: ubuntu-20.04
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
